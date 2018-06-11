@@ -1,0 +1,1 @@
+"use strict";var xml=new XMLHttpRequest;xml.open("get","/week/lib",!1),xml.send(null),console.log(JSON.parse(xml.responseText));
